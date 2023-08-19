@@ -1,4 +1,17 @@
-# RRDiscord
- Radio Rijks Discord Bot
+# Discord Bot voor Radio Rijks
 
- Insta commands werken niet want er zit 2FA op. Dit ga ik nog fixen met een auto e-mail lezer, maar dat duurt ff.
+Gemaakt door: (contact)
+
+{
+
+Naam: Jelte Dijkmans
+
+Email: Jelte.Dijkmans@gmail.com
+
+Github: Jelte2357
+
+}
+
+
+
+Programmeertaal: Python
